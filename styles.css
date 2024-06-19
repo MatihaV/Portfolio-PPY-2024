@@ -49,6 +49,13 @@ header{
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+.contenedor-nav{
+  flex: 1;
+  align-content: center;
+  background-color: #6ab87d;
 }
 section{
   color: rgb(72, 22, 119);
